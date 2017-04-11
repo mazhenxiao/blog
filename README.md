@@ -2,12 +2,12 @@
 ===================================
     学习是一种信仰！
 -----------------------------------
-##Cordova笔记整理
-###2016年被调入到万达项目检查APP项目，整理并加入
+## Cordova笔记整理
+### 2016年被调入到万达项目检查APP项目，整理并加入
 -项目框架为cordova  （原项目）
 -ui框架为light7    （原项目）
 -数据库为本地sqlite （原项目）
 -seajs             （新加入）
 -undersocrejs      （新加入）
 -vuejs 1.0          (新加入)
-###主框架cordova使用了file、camera、sqlite、baidu语音、等控件。
+### 主框架cordova使用了file、camera、sqlite、baidu语音、等控件。
